@@ -49,7 +49,7 @@ You can also append `/swagger-ui/index.html` to the URL manually when running on
 
 * cd to top level of repo
 * use: `mvn javadoc:javadoc`
-* open in a web browser: `target/site/apidocs/index.html`
+* open in a web browser: `open target/reports/apidocs/index.html`
 
 You can also see the javadoc for the main branch and all open pull requests on the 
 github pages site associated with the repo; see [/docs/github-pages.md](/docs/github-pages.md) for more info.
